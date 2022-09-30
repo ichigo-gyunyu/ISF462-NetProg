@@ -1,0 +1,5 @@
+c
+-Wall
+-I./src
+-g
+-fsanitize=address

@@ -1,0 +1,10 @@
+
+BasedOnStyle: LLVM
+IndentWidth: 4
+
+AlignAfterOpenBracket: Align
+AlignArrayOfStructures: Left
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveMacros: Consecutive
+AlignOperands: Align
+AlignTrailingComments: true
